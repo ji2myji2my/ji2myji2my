@@ -11,7 +11,7 @@
 </div>
 <div align="center">
   <h1>
-    Hi there
+    Hi there, I'm Jimmy Mennock
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -53,10 +53,13 @@ I am a Student Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <div id="OS">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg"  title="Window" alt="Window" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg"  title="powershell" alt="powershell" width="40" height="40"/>&nbsp;
 </div><br>
 
 :large_blue_diamond: Framworks and Dev tools :
 <div id="Framworks">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-line-wordmark.svg"  title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"  title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg"  title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
@@ -69,13 +72,16 @@ I am a Student Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ji2myji2my&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji2myji2my&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-
-
-
-## Hi there 👋
 
 <!--
 **ji2myji2my/ji2myji2my** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
