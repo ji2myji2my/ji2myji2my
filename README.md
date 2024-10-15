@@ -25,7 +25,7 @@
 
 I am a Student Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 42 Paris.
 
-- :telescope: I’m studing as a software developper and contributing to frontend and backend for building web applications.
+- :telescope: I’m studing as software developper and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
